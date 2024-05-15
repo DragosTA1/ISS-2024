@@ -10,7 +10,8 @@ module iss.demo {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.sql;
 
-    opens iss.demo to javafx.fxml;
-    exports iss.demo;
+    opens ro.iss2024 to javafx.fxml;
+    exports ro.iss2024;
 }
