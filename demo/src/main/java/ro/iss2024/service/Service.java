@@ -1,14 +1,12 @@
 package ro.iss2024.service;
 
 import ro.iss2024.controller.utils.SeatDTO;
-import ro.iss2024.domain.Performance;
-import ro.iss2024.domain.SeatCategory;
+import ro.iss2024.domain.*;
 import ro.iss2024.observer.Observable;
 import ro.iss2024.observer.Observer;
 import ro.iss2024.repository.*;
 import ro.iss2024.repository.irepository.IAdminRepo;
 import ro.iss2024.repository.irepository.ISpectatorRepo;
-import ro.iss2024.theatermanagement.domain.*;
 
 import java.sql.SQLException;
 import java.time.LocalDate;

@@ -1,6 +1,6 @@
 package ro.iss2024.repository;
 
-import ro.iss2024.theatermanagement.domain.*;
+import ro.iss2024.domain.*;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,8 +1,7 @@
 package ro.iss2024.service;
 
 import ro.iss2024.controller.utils.SeatDTO;
-import ro.iss2024.domain.Performance;
-import ro.iss2024.theatermanagement.domain.*;
+import ro.iss2024.domain.*;
 
 import java.sql.SQLException;
 import java.util.List;
